@@ -1,0 +1,9 @@
+#name {                 /* selector: which elements */
+  color: black;
+  font-family: 'Dancing Script', Arial, sans-serif;  /* property: value */
+  font-size: 4rem;   /* each declaration ends in ; */
+}
+body{
+    font-family: 'Poppins', Arial, sans-serif;
+    font-size: 1.2rem;
+}
